@@ -1,4 +1,4 @@
-# Data Science Job Market Analytics Dashboard
+# Job Market Analytics & Salary Predictor
 
 An interactive dashboard built with Streamlit to analyze global data science salary trends and predict potential earnings using a Linear Regression model.
 
@@ -24,6 +24,10 @@ pip install -r requirements.txt
 
 3. Run the application:
 streamlit run app.py
+
+## Live Demo
+You can access the live version of this dashboard here:
+https://ds-salary-dashboard.streamlit.app
 
 ## Dataset
 The project uses the ds_salaries.csv dataset, which contains columns for job titles, experience levels, company locations, and salaries in USD.
